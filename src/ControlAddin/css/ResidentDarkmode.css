@@ -1,0 +1,340 @@
+.nav-bar-area-box {
+    /* background: #fff; */
+    background: #0f0f0f !important;
+}
+
+div[class*='navigation-bar-row-container-'] {
+    /* background: #fff; */
+    background-color: #0f0f0f !important;
+}
+
+.notification-panel .notification-message .notification-message-text {
+    color: #eee !important;
+}
+
+.task-dialog>.ms-nav-content {
+    /* background-color: #fff; */
+    background-color: #0f0f0f !important;
+}
+
+.ms-Label {
+    color: var(--bc-style-standard_medflat_45) !important;
+}
+
+input[type=email]:not(.ms-TextField-field),
+input[type=number]:not(.ms-TextField-field),
+input[type=password]:not(.ms-TextField-field),
+input[type=search]:not(.ms-TextField-field),
+input[type=tel]:not(.ms-TextField-field),
+input[type=text]:not(.ms-TextField-field),
+input[type=url]:not(.ms-TextField-field),
+select,
+textarea:not(.ms-TextField-field),
+input[type=email]:not(.ms-TextField-field)[disabled],
+input[type=number]:not(.ms-TextField-field)[disabled],
+input[type=password]:not(.ms-TextField-field)[disabled],
+input[type=search]:not(.ms-TextField-field)[disabled],
+input[type=tel]:not(.ms-TextField-field)[disabled],
+input[type=text]:not(.ms-TextField-field)[disabled],
+input[type=url]:not(.ms-TextField-field)[disabled],
+select[disabled],
+textarea:not(.ms-TextField-field)[disabled] {
+    background-color: rgba(0, 0, 0, .85);
+}
+
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=email]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=number]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=password]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=search]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=tel]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=text]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=url]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container .ms-nav-grid-expand-collapse-container>textarea:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container select,
+.ms-nav-grid .edit.edit-container>input[type=email]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>input[type=number]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>input[type=password]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>input[type=search]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>input[type=tel]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>input[type=text]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>input[type=url]:not(.ms-TextField-field),
+.ms-nav-grid .edit.edit-container>textarea:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=email]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=number]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=password]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=search]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=tel]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=text]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>input[type=url]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container .ms-nav-grid-expand-collapse-container>textarea:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container select,
+.ms-nav-grid .force-edit.edit-container>input[type=email]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>input[type=number]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>input[type=password]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>input[type=search]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>input[type=tel]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>input[type=text]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>input[type=url]:not(.ms-TextField-field),
+.ms-nav-grid .force-edit.edit-container>textarea:not(.ms-TextField-field) {
+    background-color: #000;
+}
+
+.freeze-pane-border {
+    /* border-right: 2px solid #f5f5f5!important; */
+    border-right: 2px solid #3e3e3e !important;
+}
+
+.advanced-list-filter-line .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.ms-nav-cardform .ms-nav-advancedfilter-line .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.ms-nav-cardform .ms-nav-layout-main .ms-nav-edit-control-container .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.ms-nav-dialog .ms-nav-edit-control-container .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.ms-nav-listform>.ms-nav-band .ms-nav-edit-control-container .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.ms-nav-worksheetform .ms-nav-layout-worksheet-bottom .ms-nav-edit-control-container .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.ms-nav-worksheetform .ms-nav-layout-worksheet-top .ms-nav-edit-control-container .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate,
+.task-dialog .task-dialog-content .ms-nav-edit-control-container .ms-nav-editcontrolandonebuttoncontainer>.ms-nav-button-separate {
+    background-color: transparent;
+}
+
+.form-text,
+.form-select {
+    background-color: rgba(0, 0, 0, .85);
+}
+
+:root {
+    /* --bc-mintint: #D9F0F2 !important; */
+    --bc-mintint: #3d4647 !important;
+}
+
+:root {
+    --bc-brand-primary_minflat_45: #008489 !important;
+}
+
+:root {
+    /* --bc-brand-secondary: #505C6D !important; */
+    --bc-brand-secondary: #7f92ac !important;
+}
+
+:root {
+    /* --bc-brand-primary_medflat_45: #007E87 !important; */
+    --bc-brand-primary_medflat_45: #029fab !important;
+}
+
+:root {
+    /* --bc-palette--1301147839: #D3D6DA !important; */
+    --bc-palette--1301147839: #565657 !important;
+}
+
+:root {
+    /* --bc-palette--1258625478: #EBEAEC !important; */
+    --bc-palette--1258625478: #303030 !important;
+}
+
+:root {
+    /* --bc-palette--1818861216: #212121 !important; */
+    --bc-palette--1818861216: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-style-standard_minflat_45: #212121 !important; */
+    --bc-style-standard_minflat_45: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-minflat: #FFF !important; */
+    --bc-minflat: #0f0f0f !important;
+}
+
+:root {
+    /* --bc-brand-secondary_medflat_45: #505C6D !important; */
+    --bc-brand-secondary_medflat_45: #7f92ac !important;
+}
+
+:root {
+    /* --bc-style-standard: #212121 !important; */
+    --bc-style-standard: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-divider-strong: #B9BEC5 !important; */
+    --bc-divider-strong: #585b5e !important;
+}
+
+:root {
+    /* --bc-sldaccn: #00838F !important; */
+    --bc-sldaccn: #0097a4 !important;
+}
+
+:root {
+    /* --bc-palette-1112195: #FFF !important; */
+    --bc-palette-1112195: #0f0f0f !important;
+}
+
+:root {
+    /* --bc-maxflat: #E5E7E9 !important; */
+    --bc-maxflat: #3a3a3a !important;
+}
+
+:root {
+    /* --bc-brand-secondary_maxflat_45: #505C6D !important; */
+    --bc-brand-secondary_maxflat_45: #7f92ac !important;
+}
+
+:root {
+    /* --bc-style-standard_medflat_45: #212121 !important; */
+    --bc-style-standard_medflat_45: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-medmaxflat: #EBEDEF !important; */
+    --bc-medmaxflat: #2c2c2c !important;
+}
+
+:root {
+    /* --bc-style-accent_medflat_45: #007E87 !important; */
+    --bc-style-accent_medflat_45: #029fab !important;
+}
+
+:root {
+    /* --bc-medflat: #F6F7F8 !important; */
+    --bc-medflat: #292929 !important;
+}
+
+:root {
+    --bc-palette--1726194350: transparent !important;
+}
+
+:root {
+    /* --bc-style-subordinate: #A7ADB6 !important; */
+    --bc-style-subordinate: #5e6166 !important;
+}
+
+:root {
+    /* --bc-medtint: #B2E9ED !important; */
+    --bc-medtint: #497d80 !important;
+}
+
+:root {
+    /* --bc-style-strong_medflat_45: #212121 !important; */
+    --bc-style-strong_medflat_45: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-brand-secondary_minflat_45: #505C6D !important; */
+    --bc-brand-secondary_minflat_45: #7f92ac !important;
+}
+
+:root {
+    /* --bc-divider-standard_medflat_15: #C6CACF !important; */
+    --bc-divider-standard_medflat_15: #606365 !important;
+}
+
+:root {
+    /* --bc-palette--1383417200: #A7ADB6 !important; */
+    --bc-palette--1383417200: #5e6166 !important;
+}
+
+:root {
+    --bc-style-ambiguous: #9F9700 !important;
+    /* --bc-style-ambiguous: #7f7900 !important; */
+}
+
+:root {
+    /* --bc-style-favorable_maxflat_30: #2F981E !important; */
+    --bc-style-favorable_maxflat_30: #2F981E !important;
+}
+
+:root {
+    /* --bc-style-standard_medtint_45: #212121 !important; */
+    --bc-style-standard_medtint_45: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-brand-primary_medtint_45: #00686F !important; */
+    --bc-brand-primary_medtint_45: #0b464b !important;
+}
+
+:root {
+    /* --bc-style-standard_medtint_15: #212121 !important; */
+    --bc-style-standard_medtint_15: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-palette--1246606239: #F0F0F0 !important; */
+    --bc-palette--1246606239: #1f1f1f !important;
+}
+
+:root {
+    /* --bc-palette--1355684636: #B6BAC1 !important; */
+    --bc-palette--1355684636: #64666a !important;
+}
+
+:root {
+    /* --bc-style-subordinate_medflat_45: #5F6773 !important; */
+    --bc-style-subordinate_medflat_45: #9faabb !important;
+}
+
+:root {
+    /* --bc-palette--1352910225: #B9BEC5 !important; */
+    --bc-palette--1352910225: #585b5e !important;
+}
+
+:root {
+    /* --bc-brand-primary_medmaxflat_45: #00777F !important; */
+    --bc-brand-primary_medmaxflat_45: #0099a4 !important;
+}
+
+:root {
+    --bc-palette-528151879: #0099a4 !important;
+}
+
+:root {
+    /* --bc-style-subordinate_minflat_15: #A7ADB6 !important; */
+    --bc-style-subordinate_minflat_15: #5e6166 !important;
+}
+
+:root {
+    /* --bc-style-subordinate_medflat_15: #A7ADB6 !important; */
+    --bc-style-subordinate_medflat_15: #5e6166 !important;
+}
+
+:root {
+    /* --bc-style-standard_maxtint_30: #212121 !important; */
+    --bc-style-standard_maxtint_30: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-style-standard_medtint_30: #212121 !important; */
+    --bc-style-standard_medtint_30: #d1d1d1 !important;
+}
+
+:root {
+    /* --bc-maxtint: #66D4DB !important; */
+    --bc-maxtint: #3a777b !important;
+}
+
+:root {
+    /* --bc-brand-primary_mintint_45: #00777C !important; */
+    --bc-brand-primary_mintint_45: #00949a !important;
+}
+
+:root {
+    /* --bc-brand-secondary_medtint_45: #434C5A !important; */
+    --bc-brand-secondary_medtint_45: #97aac9 !important;
+}
+
+:root {
+    --bc-ag-grid-progress-bar-width: 0%;
+}
+
+:root {
+    /* --bc-style-standard_medmaxflat_45: #212121 !important; */
+    --bc-style-standard_medmaxflat_45: #f1f1f1 !important;
+}
+
+:root {
+    --bc-minalert: #2c2c2c !important;
+}
+
+:root {
+    --validation-error-tooltip-text-color: #f1f1f1 !important;
+}
