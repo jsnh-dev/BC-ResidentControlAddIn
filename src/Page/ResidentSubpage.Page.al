@@ -33,7 +33,7 @@ page 70101 "Resident Subpage"
 
     trigger OnInit()
     begin
-        if ResidentSingleInstance.GetControlAddinInstantiated() then
+        if ResidentSingleInstance.GetInstantiated() then
             ResidentSingleInstance.UpdateControlAddin();
     end;
 

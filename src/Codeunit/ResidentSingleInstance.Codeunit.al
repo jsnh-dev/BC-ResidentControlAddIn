@@ -39,10 +39,10 @@ codeunit 70100 "Resident Single Instance"
     end;
 
     /// <summary>
-    /// GetControlAddinInstantiated.
+    /// GetInstantiated.
     /// </summary>
     /// <returns>Return value of type Boolean.</returns>
-    procedure GetControlAddinInstantiated(): Boolean
+    procedure GetInstantiated(): Boolean
     begin
         exit(Instantiated);
     end;
