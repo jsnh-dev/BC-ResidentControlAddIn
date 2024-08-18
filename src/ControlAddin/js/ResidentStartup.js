@@ -105,7 +105,7 @@ window.StartListening = function StartListening(baseUrl, settings) {
             "       mainHead.appendChild(iframeCss);" +
             "    }" +
 
-            "    if (darkmode) {" +
+            "    if (settings.darkmode) {" +
             "       if (!mainHead.querySelectorAll(\"link[href*='ResidentDarkmode.css']\").length) {" +
             "           var darkmodeCSS = residentHead.querySelector(\"link[href*='ResidentDarkmode.css']\").cloneNode(true);" +
             "           mainHead.appendChild(darkmodeCSS);" +
