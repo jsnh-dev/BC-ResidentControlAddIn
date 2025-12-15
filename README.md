@@ -1,3 +1,9 @@
+<small>Author: Janic Scheinhardt (info@jsnh.dev)</small><br>
+<small>Created: 2024-08-13</small><br>
+<small>Last update: 2025-12-15</small>
+
+<br>
+
 Inspired by the resident control extension of [vjekob](https://github.com/vjekob/resident-control) I wanted to create a small extension to enable darkmode in business central. For that it is necessary to have the javascript (or at least the css files) available on every page. So, in this extension the javascript plants itself into the main DOM within the startup script.
 
 The darkmode can be activated on the "User Settings" page.
